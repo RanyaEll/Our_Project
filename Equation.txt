@@ -1,1 +1,5 @@
-1+1=
+1+1=3
+==========================>
+logically it is refused 
+of course we use our logic but not only logic,
+technincal logic + technincal knowledge + technincal expreience  requirement to accept or reject it.
